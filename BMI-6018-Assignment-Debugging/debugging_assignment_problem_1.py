@@ -20,7 +20,6 @@ arg1 = [1,2,3]
 arg2 = [1,1,1]
 
 print(wrong_add_function(arg1, arg2))
-
 print("\nProblem 1.b")
 def correct_add_function(arg1,arg2):   
     arg1_index=0
